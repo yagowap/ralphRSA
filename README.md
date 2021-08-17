@@ -5,3 +5,7 @@ recreation of RSA encyption in python
 git clone git@github.com:yagowap/ralphRSA.git
 
 ```
+2) Create a python environment
+```
+python3.9 -m venv venv
+```
